@@ -75,4 +75,8 @@
 
     - 사용자는 자신의 프로필을 수정할 수 있어야 한다.
 
+
+# ERD
+
+![erd](https://github.com/user-attachments/assets/dab3711f-0e2f-43f1-b3f3-e022cecd29f1)
     
